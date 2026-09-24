@@ -1,0 +1,4 @@
+English -> Arabic
+en -> ar
+Task: Neural Machine Translation (Seq2Seq)
+Model: OPUS-MT MarianMT (Helsinki-NLP)

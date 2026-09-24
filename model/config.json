@@ -1,0 +1,11 @@
+{
+  "model_name": "Helsinki-NLP/opus-mt-en-ar",
+  "architecture": "MarianMTModel",
+  "source_language": "English (en)",
+  "target_language": "Arabic (ar)",
+  "default_max_length": 512,
+  "default_num_beams": 4,
+  "repetition_penalty": 1.2,
+  "device": "auto",
+  "version": "1.0.0"
+}
